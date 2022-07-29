@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python, JavaScript, Node.JS, Html, Css...
 - 📫 How to reach me m.me/ceifeirocv...
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ceifeirocv/ceifeirocv/blob/main/devcard.svg" width="400" alt="Jair Oliveira's Dev Card"/></a>
+<a href="https://app.daily.dev/ceifeirocv"><img src="https://github.com/ceifeirocv/ceifeirocv/blob/main/devcard.svg" width="400" alt="Jair Oliveira (Ceifeirocv)'s Dev Card"/></a>
 
 <!---
 ceifeirocv/ceifeirocv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
